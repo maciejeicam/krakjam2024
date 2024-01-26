@@ -11,14 +11,14 @@ radius = 34.0588
 radius = 40.05
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_3vvkr"]
-bg_color = Color(0, 0.929412, 0.745098, 0.117647)
+bg_color = Color(0.462745, 0.92549, 0.282353, 0.117647)
 corner_radius_top_left = 8
 corner_radius_top_right = 8
 corner_radius_bottom_right = 8
 corner_radius_bottom_left = 8
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_7hs45"]
-bg_color = Color(0.298039, 0.980392, 0, 1)
+bg_color = Color(0.87451, 0, 0, 1)
 corner_radius_top_left = 8
 corner_radius_top_right = 8
 corner_radius_bottom_right = 8
